@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/andrea-pennisi/static/css/main.ccb34aec.css",
-    "main.js": "/andrea-pennisi/static/js/main.faa62180.js",
+    "main.css": "/andrea-pennisi/static/css/main.9086b160.css",
+    "main.js": "/andrea-pennisi/static/js/main.9e68a4c2.js",
     "static/js/787.d8676761.chunk.js": "/andrea-pennisi/static/js/787.d8676761.chunk.js",
     "static/media/andrea_pennisi.jpg": "/andrea-pennisi/static/media/andrea_pennisi.dc2b05553be46a263e55.jpg",
     "static/media/unict.png": "/andrea-pennisi/static/media/unict.f390b9464479534bc3b6.png",
     "static/media/ferraris.png": "/andrea-pennisi/static/media/ferraris.521baee338a1d39cd7e4.png",
+    "static/media/icomoon.svg?vvow7z": "/andrea-pennisi/static/media/icomoon.78416ca6bc22e759deb1.svg",
     "static/media/logo-skylabs.svg": "/andrea-pennisi/static/media/logo-skylabs.85793f7f8be8e27106e534ad0c4eb194.svg",
+    "static/media/icomoon.eot?vvow7z": "/andrea-pennisi/static/media/icomoon.e70b9ee841b5fb087d4f.eot",
+    "static/media/icomoon.woff?vvow7z": "/andrea-pennisi/static/media/icomoon.61b71ed5ae29152f158f.woff",
+    "static/media/icomoon.ttf?vvow7z": "/andrea-pennisi/static/media/icomoon.e51354ffa0bd34ada3e2.ttf",
     "index.html": "/andrea-pennisi/index.html",
-    "main.ccb34aec.css.map": "/andrea-pennisi/static/css/main.ccb34aec.css.map",
-    "main.faa62180.js.map": "/andrea-pennisi/static/js/main.faa62180.js.map",
+    "main.9086b160.css.map": "/andrea-pennisi/static/css/main.9086b160.css.map",
+    "main.9e68a4c2.js.map": "/andrea-pennisi/static/js/main.9e68a4c2.js.map",
     "787.d8676761.chunk.js.map": "/andrea-pennisi/static/js/787.d8676761.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccb34aec.css",
-    "static/js/main.faa62180.js"
+    "static/css/main.9086b160.css",
+    "static/js/main.9e68a4c2.js"
   ]
 }
